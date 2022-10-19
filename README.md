@@ -10,7 +10,7 @@
 4. Description about the business
 
    The slogan of the business is as follows  
-   "Make better decision, make better life, make better world"
+   _"Make better decision, make better life, make better world"_
 
    Pathfinder is an online educational platform that helps students find the most suitable course for their respective study programs all over the world. It allows students to search, compare, and apply for a course in just 10 minutes. The portal also provides email support by dedicated customer care executives 24/7.
 
