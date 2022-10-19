@@ -2,7 +2,7 @@
 
 # Business description
 
-1. The official name of the business is Pathfinder.
+1. The official name of the business is **Pathfinder**.
 2. We have 3 offices. Cottbus, Germany. Dhaka, Bangladesh.
 3. Contact information  
    email: contact@pathfinder.edu  
