@@ -1,2 +1,10 @@
-# Here I will list all of the stuff that is necessary
+# PATHFINDER
 
+# Business description
+
+a. The official name of the business is Pathfinder.
+b.
+c.
+d.
+e.
+f.
