@@ -4,10 +4,11 @@
 
 1. The official name of the business is Pathfinder.
 2. We have 3 offices. Cottbus, Germany. Dhaka, Bangladesh.
-3. contact information  
+3. Contact information  
    email: contact@pathfinder.edu  
    phone number: +49 10002000345
-4. Description about the business  
+4. Description about the business
+
    The slogan of the business is as follows  
    "Make better decision, make better life, make better world"
 
