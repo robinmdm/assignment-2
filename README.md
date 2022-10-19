@@ -6,9 +6,9 @@
 2. We have 3 offices residing in 3 countries.  
    Cottbus, Germany.  
    Dhaka, Bangladesh.
-3. Contact information  
-   email: contact@pathfinder.edu  
-   phone number: +49 10002000345
+3. Contact information
+   - email: contact@pathfinder.edu
+   - phone number: +49 10002000345
 4. Description about the business
 
    The slogan of the business is as follows  
