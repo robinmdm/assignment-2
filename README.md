@@ -67,4 +67,4 @@
 
 # Website Content
 
-![alt text]("./image/mikasa.jpg" "Mikasa Ackerman")
+![alt text](image/mikasa.jpg "Mikasa Ackerman")
