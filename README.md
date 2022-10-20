@@ -35,7 +35,7 @@
 
    A brief profile description of both persons are goven below:
 
-   ###Persona 1
+   ### Persona 1
 
    | Persona 1     |                                                                                                                         A fresh undergradute passed                                                                                                                         |
    | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -47,13 +47,14 @@
    | Environment   | He is comfortable using any technological device. He refers himself as a master user of internet. He generally uses IPAD for his daily study. He uses major social media sites and reads news, blogs about tech extensively. He surfs the internet about 3 hours every day. |
    | Quote         |                                                                                                           I am a citizen of the world. the universe is my school.                                                                                                           |
 
-   ###Persona 2
-   | Persona 2 | A mother of a college passed daughter |
+   ### Persona 2
+
+   | Persona 2     |                                                                                      A mother of a college passed daughter                                                                                       |
    | ------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-   | photo | right-aligned |
-   | Name | Mikasa Ackerman |
-   | Job Title | Physical education Teacher of a primary school |
-   | Demographics | 42 Years old, married, mother of 2 daughters, has MA in Physical Education |
-   | Goals & Tasks | She is very concerned about physical health. From her career standpoint, she tries to put effort for the betterment of everyone's physical health. |
-   | Environment | She is not that good at handling complex websites. Images and bigger font makes her experience better for surfing the internet. She uses email regularly and watches recipe videos on youtube an hour every day. |
-   | Quote | It is never too late to exercise. |
+   | photo         |                                                                                                  right-aligned                                                                                                   |
+   | Name          |                                                                                                 Mikasa Ackerman                                                                                                  |
+   | Job Title     |                                                                                  Physical education Teacher of a primary school                                                                                  |
+   | Demographics  |                                                                    42 Years old, married, mother of 2 daughters, has MA in Physical Education                                                                    |
+   | Goals & Tasks |                                She is very concerned about physical health. From her career standpoint, she tries to put effort for the betterment of everyone's physical health.                                |
+   | Environment   | She is not that good at handling complex websites. Images and bigger font makes her experience better for surfing the internet. She uses email regularly and watches recipe videos on youtube an hour every day. |
+   | Quote         |                                                                                        It is never too late to exercise.                                                                                         |
