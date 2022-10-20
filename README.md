@@ -68,3 +68,7 @@ Every requirements for making the website has been attached in the webpages-list
 ---
 
 # Website Content
+
+1. **LOGO**
+
+![LOGO](image/logo.svg "logo")
