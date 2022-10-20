@@ -79,7 +79,7 @@ _http://www.pathfinder.education/_
 
 3. ### **Some text that you may take a sample to apply more by yourself**
 
-- For like forever we are choosing our study field based on these preferences –
+- ### For like forever we are choosing our study field based on these preferences –
 
   - Parents job or decisions
   - Relatives job or decisions
