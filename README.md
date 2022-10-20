@@ -80,17 +80,18 @@ _http://www.pathfinder.education/_
 3. **Some text that you may take a sample to apply more by yourself**
 
 - For like forever we are choosing our study field based on these preferences –
+
   - Parents job or decisions
   - Relatives job or decisions
   - Successful friends job or decisions
   - Idol’s way to success
   - Job market demand
 
-We are not choosing our study field based on our abilities or our capabilities most of the time. We can not analyze our abilities because there is no platform available there we can try ourselves.
+    We are not choosing our study field based on our abilities or our capabilities most of the time. We can not analyze our abilities because there is no platform available there we can try ourselves.
 
-So, A student who is told to take Science never knows whether he would be good in Commerce or Arts or Humanities. In his long run, he may find that if he would just study those things he maybe in a better situation.
+    So, A student who is told to take Science never knows whether he would be good in Commerce or Arts or Humanities. In his long run, he may find that if he would just study those things he maybe in a better situation.
 
-This is creating Inequality and Marginalization in our education system and ourselves for forever.
+    This is creating Inequality and Marginalization in our education system and ourselves for forever.
 
 - ### Problems of Inequality and Marginalization
 
@@ -125,4 +126,3 @@ This is creating Inequality and Marginalization in our education system and ours
   - A sample paper for all the documents needed for getting admitted to all the universities will be provided there
   - Students opinion will get priority to select the university ranking
   - The future WORK DEMAND will be shown very promptly
-
