@@ -72,3 +72,57 @@ Every requirements for making the website has been attached in the webpages-list
 1. **LOGO**
 
 ![LOGO](image/logo.svg "logo")
+
+2. **Domain Name**
+
+_http://www.pathfinder.education/_
+
+3. **Some text that you may take a sample to apply more by yourself**
+
+- For like forever we are choosing our study field based on these preferences –
+  - Parents job or decisions
+  - Relatives job or decisions
+  - Successful friends job or decisions
+  - Idol’s way to success
+  - Job market demand
+
+We are not choosing our study field based on our abilities or our capabilities most of the time. We can not analyze our abilities because there is no platform available there we can try ourselves.
+
+So, A student who is told to take Science never knows whether he would be good in Commerce or Arts or Humanities. In his long run, he may find that if he would just study those things he maybe in a better situation.
+
+This is creating Inequality and Marginalization in our education system and ourselves for forever.
+
+- ### Problems of Inequality and Marginalization
+
+  - No specific future goal
+  - Confused with career selection
+  - Ends up with negativity & bad emotions
+  - Unproductive
+  - Lose confidence
+  - Low self-esteem
+  - Becomes burden to society and themselves
+  - Stops believing in themselves
+
+- ### What if
+
+  - Students or individuals know all the sections, sub-sections of study
+  - Anyone can analyze their abilities
+  - Generation based career problems will be no more
+  - Students and parents may know the better institution for the preferred subject all over their country and the world
+  - Before applying to university no more hesitation
+  - Full idea to the job market, salary, future aspects
+  - Students have a mindset what they are going to learn and accomplish
+
+- ### Solution
+
+  - An app/website that will be accessible for all over the world
+  - Students & Guardians can overview study fields very easily
+  - Necessary information will be placed in a systematic way altogether
+  - Help anyone to analyze their skills
+  - A platform from where they can connect with universities locally & globally
+  - Job market with reputable companies will also be there
+  - Companies those want to take students for intern or hire, the option will be available
+  - A sample paper for all the documents needed for getting admitted to all the universities will be provided there
+  - Students opinion will get priority to select the university ranking
+  - The future WORK DEMAND will be shown very promptly
+
