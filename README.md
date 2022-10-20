@@ -67,4 +67,4 @@
 
 # Website Content
 
-<img src="/image/mikasa.jpg" alt="Mikasa" width="150" height="100">
+
