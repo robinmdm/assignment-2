@@ -69,15 +69,15 @@ Every requirements for making the website has been attached in the webpages-list
 
 # Website Content
 
-1. **LOGO**
+1. ### **LOGO**
 
 ![LOGO](image/logo.svg "logo")
 
-2. **Domain Name**
+2. ### **Domain Name**
 
 _http://www.pathfinder.education/_
 
-3. **Some text that you may take a sample to apply more by yourself**
+3. ### **Some text that you may take a sample to apply more by yourself**
 
 - For like forever we are choosing our study field based on these preferences –
 
