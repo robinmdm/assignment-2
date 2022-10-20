@@ -39,7 +39,7 @@
 
    | Persona 1     |                                                                                                                         A fresh undergradute passed                                                                                                                         |
    | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-   | photo         |                                                                                                                                right-aligned                                                                                                                                |
+   | photo         |                                                                                                              ![Persona 1](image/quagmire.jpg "Glenn Quagmire")                                                                                                              |
    | Name          |                                                                                                                               Glenn Quagmire                                                                                                                                |
    | Job Title     |                                                                                                                                   Student                                                                                                                                   |
    | Demographics  |                                                                                                          23 Years old, unmarried, live with parents, has BSC in IT                                                                                                          |
@@ -51,7 +51,7 @@
 
    | Persona 2     |                                                                                      A mother of a college passed daughter                                                                                       |
    | ------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-   | photo         |                                                                                                  right-aligned                                                                                                   |
+   | photo         |                                                                                 ![Persona 2](image/mikasa.jpg "Mikasa Ackerman")                                                                                 |
    | Name          |                                                                                                 Mikasa Ackerman                                                                                                  |
    | Job Title     |                                                                                  Physical education Teacher of a primary school                                                                                  |
    | Demographics  |                                                                    42 Years old, married, mother of 2 daughters, has MA in Physical Education                                                                    |
@@ -66,5 +66,3 @@
 ---
 
 # Website Content
-
-![alt text](image/quagmire.jpg "Mikasa Ackerman")
