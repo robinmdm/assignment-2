@@ -67,4 +67,4 @@
 
 # Website Content
 
-![alt text]("C:\Users\robin\Desktop\assignment - 2a\assignment-2a\website-content\image\mikasa.jpg" "Mikasa Ackerman")
+![alt text]("website-content/image/mikasa.jpg" "Mikasa Ackerman")
