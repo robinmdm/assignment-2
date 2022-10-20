@@ -126,3 +126,9 @@ Every requirements for making the website has been attached in the [webpages-lis
   - A sample paper for all the documents needed for getting admitted to all the universities will be provided there
   - Students opinion will get priority to select the university ranking
   - The future WORK DEMAND will be shown very promptly
+
+4. ### **Some videos that you may add in the course section**
+
+   - [What is there inside CS masters program?](https://www.youtube.com/watch?v=igNuko35oeU)
+   - [What are the job opportunities in urban enginnering?](https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/urban-planning)
+   - [Recommended universities for clinical psychology](https://edurank.org/psychology/clinical-psychology/)
