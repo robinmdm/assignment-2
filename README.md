@@ -34,3 +34,13 @@
    - Mikasa Ackerman
 
    A brief profile description of both persons are goven below:
+
+   | Persona 1     |                                                                                                                         A fresh undergradute passed                                                                                                                         |
+   | ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+   | photo         |                                                                                                                                right-aligned                                                                                                                                |
+   | Name          |                                                                                                                               Glenn Quagmire                                                                                                                                |
+   | Job Title     |                                                                                                                                   Student                                                                                                                                   |
+   | Demographics  |                                                                                                          23 Years old, unmarried, live with parents, has BSC in IT                                                                                                          |
+   | Goals & Tasks |                                                                   He is focused, goal-oriented & ambitious. His major concern is getting a masters degree from an european university in Cyber Security.                                                                    |
+   | Environment   | He is comfortable using any technological device. He refers himself as a master user of internet. He generally uses IPAD for his daily study. He uses major social media sites adn reads news, blogs about tech extensively. He surfs the internet about 3 hours every day. |
+   | Quote         |                                                                                                          I am a acitiyen of the world. the universe is my school.                                                                                                           |
