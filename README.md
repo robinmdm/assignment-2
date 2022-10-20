@@ -67,4 +67,4 @@
 
 # Website Content
 
-<img src="../website-content/image/quagmire.jpg" alt="" srcset="" />
+![alt text]("C:\Users\robin\Desktop\assignment - 2a\assignment-2a\website-content\image\mikasa.jpg" "Mikasa Ackerman")
