@@ -3,7 +3,7 @@
 # Business description
 
 1. **The official name of the business is **Pathfinder**.**
-2. **We have 3 offices residing in 3 countries.**
+2. **We have 2 offices residing in 2 countries.**
    - Cottbus, Germany.
    - Dhaka, Bangladesh.
 3. **Contact information**
@@ -12,19 +12,25 @@
 4. **Description about the business**
 
    The slogan of the business is as follows  
-   _"Make better decision, make better life, make better world"_
+   _"Make better educational decisions, make your life better, create a better world"_
 
-   Pathfinder is an online educational platform that helps students find the most suitable course for their respective study programs all over the world. It allows students to search, compare, and apply for a course in just 10 minutes. The portal also provides email support by dedicated customer care executives 24/7.
+   Pathfinder is an online educational platform that helps students find the most suitable course for their respective study programs all over the world. It allows students to search, compare, and apply for a course in just 10 minutes. The portal also provides dedicated e-mail customer support within 24 hours.
 
 5. **Product, Services & Activities**
 
-   This business will be mainly operable with the website. All the prospective students of the world can search thnrough various courses and they can directly apply to any university through the website. All the functionalities will be developed through the website. starting from the country to course selection as well as subject to university application, everything will be managed in a user-friendly way that will ensure the accessibility in the right fashion.
+   This business will be mainly operable with the website. All the prospective students of the world can search through various courses and they can directly find links to the application processes of any university fitting their program wishes through the website. The most fitting course is found by going through a list of selections which starts with the country selection, then the fields you are interested in, then you can choose either what university or what specific course you want, one leading to the selection of the other depending what was chosen first. Everything will be managed in a user-friendly way that will ensure accessibility in the right fashion.
 
-   In 2 ways users can register. Either as a student or as a guardian. After that both will see the same interface that will lead them to the intended information.
+   In 2 ways users can register. Either as a student or as a guardian. Students can find their perfect course right after registering and guardians will have to submit documents proving their experience in a specific field such that they can later help students by replying to questions answered by students.
 
-   opening account --> intended course --> select continent --> select country --> select field of study --> select subject --> subject sections --> select university --> apply with application process
+  student: opening account --> select continent --> select country --> select field of study --> intended course OR select university --> links to application process of chosen university and course
+   
+ guardian: opening account--> selecting field --> uploading documents --> "Thank you, we will review your registration and give you access if everything is deemed okay"
+ 
+ Furthermore there will be a specific website "ask questions" site for students, in which they can select a field (and then afterwards a specific course in that field if they want), leaving their e-mail for a future reply.
+ 
+Guardians will have access to a specific "asked questions" site that is restricted only to them. Guardians can only view questions in a field they registred for. There should be a table showing questions with their headers and then a guardian can click on it to see the full message with a text-field that is a reply body, that later will be sent to the e-mail of the original student who asked the question.
 
-   These steps should be helpful to you to implement. This will be the flow of information step by step. So that users can have their sweet experince with our website.
+   These steps should be helpful to you to implement the website. This will be the flow of information step by step. So that users can have the best user experince with our website.
 
 6. **An example of 2 user personas**
 
@@ -55,7 +61,7 @@
    | Name          |                                                                                                 Mikasa Ackerman                                                                                                  |
    | Job Title     |                                                                                  Physical education Teacher of a primary school                                                                                  |
    | Demographics  |                                                                    42 Years old, married, mother of 2 daughters, has MA in Physical Education                                                                    |
-   | Goals & Tasks |                                She is very concerned about physical health. From her career standpoint, she tries to put effort for the betterment of everyone's physical health.                                |
+   | Goals & Tasks |                                She is very concerned about physical health. From her career standpoint, she tries to put effort for the betterment of everyone's physical health. Would love to help others find their most suitable course which lead to a fullfilled life later on. Is knowledgable in health related fields                             |
    | Environment   | She is not that good at handling complex websites. Images and bigger font makes her experience better for surfing the internet. She uses email regularly and watches recipe videos on youtube an hour every day. |
    | Quote         |                                                                                        It is never too late to exercise.                                                                                         |
 
@@ -79,7 +85,7 @@ Every requirements for making the website has been attached in the [webpages-lis
 
 3. ### **Some text that you may take a sample to apply more by yourself**
 
-- ### For like forever we are choosing our study field based on these preferences –
+- ### Since forever we are choosing our study field based on these preferences –
 
   - Parents job or decisions
   - Relatives job or decisions
@@ -87,42 +93,25 @@ Every requirements for making the website has been attached in the [webpages-lis
   - Idol’s way to success
   - Job market demand
 
-    We are not choosing our study field based on our abilities or our capabilities most of the time. We can not analyze our abilities because there is no platform available there we can try ourselves.
+    We are not choosing our study field based on our abilities or our capabilities most of the time. We often don't have a good central point in which we can easily find the most suitable options based on our own interests 
 
-    So, A student who is told to take Science never knows whether he would be good in Commerce or Arts or Humanities. In his long run, he may find that if he would just study those things he maybe in a better situation.
-
-    This is creating Inequality and Marginalization in our education system and ourselves for forever.
-
-- ### Problems of Inequality and Marginalization
-
-  - No specific future goal
-  - Confused with career selection
-  - Ends up with negativity & bad emotions
-  - Unproductive
-  - Lose confidence
-  - Low self-esteem
-  - Becomes burden to society and themselves
-  - Stops believing in themselves
-
+    So, A student who is told to take Science never knows whether he would be good in Commerce or Arts or Humanities. In his long run, he may find that if he would just study those things he maybe in a better situation. So it's important to deliver some kind of solution to easily find any course in any country in any unviversity, to help future students make a decision on what they really desire rather than trying to find something that fits the bill.
+    
 - ### What if
 
-  - Students or individuals know all the sections, sub-sections of study
-  - Anyone can analyze their abilities
-  - Generation based career problems will be no more
+  - Students or individuals know all the courses offered in whatever location is available to them
+  - Anyone can explore all the options and possiblities
   - Students and parents may know the better institution for the preferred subject all over their country and the world
-  - Before applying to university no more hesitation
-  - Full idea to the job market, salary, future aspects
+  - Before applying to university and being under time pressure the student will save time locating the necesarry programs and put more time into thinking what is the best choice
   - Students have a mindset what they are going to learn and accomplish
 
 - ### Solution
 
   - An app/website that will be accessible for all over the world
-  - Students & Guardians can overview study fields very easily
+  - Students can overview study fields very easily
+  - Guardians can offer support to students asking questions about specific courses or fields
   - Necessary information will be placed in a systematic way altogether
-  - Help anyone to analyze their skills
   - A platform from where they can connect with universities locally & globally
-  - Job market with reputable companies will also be there
-  - Companies those want to take students for intern or hire, the option will be available
   - A sample paper for all the documents needed for getting admitted to all the universities will be provided there
   - Students opinion will get priority to select the university ranking
   - The future WORK DEMAND will be shown very promptly
