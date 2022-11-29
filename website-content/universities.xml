@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+<name>BTU</name>
+<bachelor>
+  <field category = "Applied Sciences">
+    <subject>
+      Architecture
+    </subject>
+    <subject>
+      Urban Planning
+    </subject>
+    <subject>
+      Civil Engineering
+    </subject>
+    <subject>
+      Construction and Art History
+    </subject>
+    <subject>
+      Business Administration and Engineering
+    </subject>
+    <subject>
+      Business Administration
+    </subject>
+    <subject>
+      Electrical Engineering
+    </subject>
+    <subject>
+      Energy Technology and Economics
+    </subject>
+    <subject>
+      Mechanical Engineering
+    </subject>
+    <subject>
+      Environmental and Resource Management 
+    </subject>
+    <subject>
+      Environmental Engineering
+    </subject>
+    <subject>
+      Land Use and Water Management
+    </subject>
+    <subject>
+      Materials Chemistry
+    </subject>
+    <subject>
+      Digital Societies
+    </subject>
+  </field>
+      
+  <field category = "Humanities and Social Sciences">
+    <subject>
+      Midwifery Science
+    </subject>
+    <subject>
+      Nursing Science
+    </subject>
+    <subject>
+      Social Work
+    </subject>
+    <subject>
+      Therapy Science
+    </subject>
+    <subject>
+      Instrumental and Vocal Performance and Teaching
+    </subject>
+  </field>
+  
+  <field category = "Natural Sciences">
+    <subject>
+      Biotechnology
+    </subject>
+    <subject>
+      Physics
+    </subject>
+  </field>   
+      
+  <field category = "Formal Sciences">
+    <subject>
+      Artifical Intelligence 
+    </subject>
+    <subject>
+      Artifical Intelligence Engineering
+    </subject>
+    <subject>
+      Computer Science
+    </subject>
+    <subject>
+      Economathematics
+    </subject>
+    <subject>
+      Mathematics
+    </subject>
+    <subject>
+      Medical Informatics
+    </subject>
+  </field>  
+</bachelor>
+      
+        
+<master>
+  <field category = "Applied Sciences">
+    <subject>
+      Transfers-Fluids-Materials in Aeronautical and Space Applications
+    </subject>
+    <subject>
+      Architecture
+    </subject>
+    <subject>
+      Urban Planning
+    </subject>
+    <subject>
+      Civil Engineering
+    </subject>
+    <subject>
+      Construction and Art History
+    </subject>
+    <subject>
+      Business Law for Technology Companies
+    </subject>
+    <subject>
+      Business Administration
+    </subject>
+    <subject>
+      Electrical Engineering
+    </subject>
+    <subject>
+      Power Engineering
+    </subject>
+    <subject>
+      Mechanical Engineering
+    </subject>
+    <subject>
+      Environmental and Resource Management 
+    </subject>
+    <subject>
+      Environmental Engineering
+    </subject>
+    <subject>
+      Euro Hydroinformatics and Water Management
+    </subject>
+    <subject>
+      Forensic Sciences and Engineering
+    </subject>
+    <subject>
+      Materials Chemistry
+    </subject>
+    <subject>
+      Climate-adapted Construction and Operation 
+    </subject>
+    <subject>
+      Heritage Conservation and Site Management
+    </subject>
+    <subject>
+      Urban Design - Revitalization of Historic City Districts
+    </subject>
+    <subject>
+      Urban Planning
+    </subject>  
+    <subject>
+       World Heritage Studies Master of Arts
+    </subject>
+    <subject>
+      Culture and Technology
+    </subject>
+  </field>
+      
+  <field category = "Humanities and Social Science">
+    <subject>
+      Social Work
+    </subject>
+    <subject>
+      Vocational Education in Healthcare Professions
+    </subject>
+  </field>
+  
+  <field category = "Natural Sciences">
+    <subject>
+      Biotechnology
+    </subject>
+    <subject>
+      Physics
+    </subject>
+  </field>   
+      
+  <field category = "Formal Sciences">
+    <subject>
+      Artifical Intelligence 
+    </subject>
+    <subject>
+      Artifical Intelligence Engineering
+    </subject>
+    <subject>
+      Computer Science
+    </subject>
+    <subject>
+      Cyber Security 
+    </subject>
+    <subject>
+      Mathematics
+    </subject>
+    <subject>
+      Applied Mathematics
+    </subject>
+  </field>    
+</master>
+     
+<location>
+  Germany Cottbus
+</location>
+</university>   
