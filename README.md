@@ -4,11 +4,14 @@
 
 1. **The official name of the business is **Pathfinder**.**
 2. **We have 2 offices residing in 2 countries.**
-   - Cottbus, Germany.
-   - Dhaka, Bangladesh.
+   - Thiemstraße 39, Cottbus 03046, Germany. (Headquarter)
+   - 15/A Station Road, Dhaka 1215, Bangladesh. (Branch)
 3. **Contact information**
    - email: contact@pathfinder.edu
-   - phone number: +49 10002000345
+   - phone number: +49 10002000345, +880 1816714294
+   - fb: www.facebook.com/pathfinder
+   - twitter: www.twitter.com/pathfinder
+   - instagram: www.instagram.com/pathfinder
 4. **Description about the business**
 
    The slogan of the business is as follows  
@@ -127,3 +130,8 @@ Every requirements for making the website has been attached in the [webpages-lis
 It is important that the website is inviting to anyone from all around the world. It should be fairly simple to understand and not try to aim at a specific audience but rather be very inviting. Also, it should invoke a feeling of advance and interest. Meanwhile, everything should still remain informal and educational. Thus it is important to choose colors that mix a feeling of education content with exploration and progression. We recommend to avoid overly gloomy and dark colors and making the website look "too corporate", while also not making it look too playful with extremely bright and too many colors. There should be a single base color like a medium blue that is complemented in cases some important information needs to be highlighted. Furthermore, none of the pages should contain too much elements or text. The importance is easy of navigation and easily finding an university and course, thus unecessary big pages with a lot of distraction should be avoided. Pictures and images are mostly to be used only in the pages like contacts and about us to give a more inviting feel but avoid them in the nagivation process until the actual course is reached. Only then it is okay to use more images and decorative elements again, as the user already reached the end of the nagivation and won't be confused by distractions. It is also important that the website can function on any kind of device with any kind of resolution. Text should be big enough that impared people can still easily dael with it. As a font something simple and not too fancy should be chosen, like "open sans condensend". It is important that the font looks pretty and inviting, but still simplistic and does not take away too much attention from the user.
 We recommend the following color palette:
 ![Color Palette](image/Color_palette.PNG)
+
+# Web Developers
+   - Jan Robert Meyer
+   - Nils Fiete Noerenberg
+   - Tristan Mark Nuck
