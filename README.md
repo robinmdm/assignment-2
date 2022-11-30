@@ -80,7 +80,7 @@ Every requirements for making the website has been attached in the [webpages-lis
 
 1. ### **LOGO**
 
-![LOGO](image/logo.svg "logo")
+![LOGO](./assignment-2a/image/logo.svg "logo")
 
 2. ### **Domain Name**
 
