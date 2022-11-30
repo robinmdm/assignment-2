@@ -72,7 +72,7 @@ These steps should be helpful to you to implement the website. This will be the 
 
 # Website requirements
 
-Every requirements for making the website has been attached in the [webpages-list](website-content/webpages-list.html) named html file. Please read carefully and implement thereby.
+Every requirements for making the website has been attached in the [webpages-list](./assignment-2a/website-content/webpages-list.html) named html file. Please read carefully and implement thereby.
 
 ---
 
