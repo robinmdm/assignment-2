@@ -18,8 +18,8 @@
 
 5. **Product, Services & Activities**
 
-   This business will be mainly operable with the website. All the prospective students of the world can search through various courses and they can directly find links to the application processes of any university fitting their program wishes through the website. The most fitting course is found by going through a list of selections which starts with the country selection, then the fields you are interested in, then you can choose either what university or what specific course you want, one leading to the selection of the other depending what was chosen first. Everything will be managed in a user-friendly way that will ensure accessibility in the right fashion.
-
+   This company will primarily operate through its website. Through the website, prospective students from all over the world can search through various courses and directly find links to the application processes of any university that fits their program preferences. The most appropriate course is found by going through a list of options that begins with the country, then the fields of interest, and finally the university or specific course you want, with one leading to the selection of the other depending on what was chosen first. Everything will be managed in a user-friendly manner to ensure proper accessibility.
+   
    In 2 ways users can register. Either as a student or as a guardian. Students can find their perfect course right after registering and guardians will have to submit documents proving their experience in a specific field such that they can later help students by replying to questions answered by students.
 
   student: opening account --> select continent --> select country --> select field of study --> intended course OR select university --> links to application process of chosen university and course
@@ -28,7 +28,7 @@
  
  Furthermore there will be a specific website "ask questions" site for students, in which they can select a field (and then afterwards a specific course in that field if they want), leaving their e-mail for a future reply.
  
-Guardians will have access to a specific "asked questions" site that is restricted only to them. Guardians can only view questions in a field they registred for. There should be a table showing questions with their headers and then a guardian can click on it to see the full message with a text-field that is a reply body, that later will be sent to the e-mail of the original student who asked the question.
+Guardians will have exclusive access to a "frequently asked questions" website. Guardians can only see questions in the fields for which they have registered. There should be a table with questions and their headers, and a guardian can click on it to see the full message with a text-field that is a reply body, which will later be sent to the original student who asked the question's e-mail.
 
    These steps should be helpful to you to implement the website. This will be the flow of information step by step. So that users can have the best user experince with our website.
 
