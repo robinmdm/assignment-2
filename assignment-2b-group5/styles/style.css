@@ -37,8 +37,10 @@ main {
 body {
     display: flex;
     flex-direction: column;
-    min-height: 96vh;
+    min-height: 100vh;
     font-size: large;
+    margin: 0px;
+    padding: 0px;
 }
 
 .headlineCenter {
@@ -73,8 +75,9 @@ body {
 footer {
     display: flex;
     flex-direction: column;
-    margin-top: 150px;
-    width: 100%
+    margin-top: 5px;
+    width: 100%;
+    background: var(--color-accent-alt);
 }
 
 .footerLinks {

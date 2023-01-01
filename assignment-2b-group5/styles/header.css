@@ -3,6 +3,7 @@ header {
     justify-content: flex-end;
     align-items: center;
     margin-bottom: 25px;
+    background: var(--color-accent-alt);
 }
 
 .logo {
