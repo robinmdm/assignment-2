@@ -1,0 +1,50 @@
+.image {
+    width: 4vw;
+    min-width: 40px;
+    max-width: 80px; 
+}
+
+figure {
+    align-content: center;
+    text-align: center;
+    width: 5vw;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.centerDoors {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    max-width: 1600px;
+    width: 80vw;
+}
+
+.centerBig {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+div > a {
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+figcaption {
+    font-size: 0.7em;
+    text-align: center;
+}

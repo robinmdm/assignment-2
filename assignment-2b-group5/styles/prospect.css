@@ -1,0 +1,23 @@
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.textContainer {
+    width: 80vw;
+    max-width: 660px;
+} 
+
+.link {
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+.link:hover {
+    text-decoration: none;
+    color: var(--color-accent);
+}

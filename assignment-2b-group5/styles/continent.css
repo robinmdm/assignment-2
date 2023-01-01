@@ -1,0 +1,37 @@
+.image {
+    width: 20vw;
+    height: 20vh;
+    max-width: 400px;
+    min-width: 100px;
+}
+
+figure {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    width: 80vw;
+}
+
+.bigCenter {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.center > a {
+    text-decoration: none;
+    color: var(--color-text);
+}
+
+figcaption {
+    font-size: 1em;
+}
