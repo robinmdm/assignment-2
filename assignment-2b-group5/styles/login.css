@@ -1,0 +1,62 @@
+.backgroundBoxWithTitle {
+    flex: 1;
+}
+
+.backgroundBox {
+    background-color: var(--color-light-gray);
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.backgroundBox input[type=text],
+.backgroundBox input[type=password] {
+    border-width: 2px;
+    border-color: black;
+    box-shadow: none;
+    border-style: solid;
+    width: 15rem;
+}
+
+.backgroundBox > div.inputRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: right;
+    column-gap: 10px;
+    margin-right: calc(25%);
+}
+.backgroundBox > div.checkBoxInputRow,
+.backgroundBox > div.fileInputRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    text-align: left;
+    column-gap: 10px;
+    margin-left: calc(15%);
+}
+
+.backgroundBox > div.checkBoxInputRow > label {
+    max-width: 80%;
+}
+.backgroundBox > div.fileInputRow > label {
+    max-width: 50%;
+}
+
+.leftRightFlexBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 5%;
+    column-gap: 20%;
+    flex-wrap: wrap;
+}
+
+body > footer {
+    margin-top: 5rem;
+}

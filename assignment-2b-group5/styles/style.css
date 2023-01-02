@@ -10,6 +10,7 @@
 :root {
     --color-bg-bright: #ffffff;
     --color-gray: #848484;
+    --color-light-gray: rgb(238, 238, 238);
     --color-accent: #426aec;
     --color-accent-alt: #30cbe8;
     --color-text: #000000;
@@ -53,10 +54,21 @@ body {
     font-weight: 700;
 }
 
+.smallText {
+    font-size: small;
+}
+.redText {
+    color: red;
+}
+
 .defaultButton {
     background-color: var(--color-bg-bright);
     color: var(--color-text);
+    font-size: large;
     border-radius: 5px;
+    border-width: 2px;
+    border-color: var(--color-text);
+    border-style: solid;
     padding: 3px;
     box-shadow: none;
 }
@@ -65,6 +77,10 @@ body {
     background-color: var(--color-accent);
     color: var(--color-bg-bright);
     cursor: pointer;
+}
+
+.paddedButton {
+    padding: 0.1em 2em;
 }
 
 /*-------------------------------------*/

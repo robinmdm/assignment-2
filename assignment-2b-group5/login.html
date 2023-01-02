@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+
+<head>
+    <title>Login / register</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/style.css" type="text/css" />
+    <link rel="stylesheet" href="styles/login.css" type="text/css" />
+</head>
+
+<body>
+    <script>
+        // TODO: Put this into an external script
+        window.addEventListener('load', () => {
+            document.getElementById('registerGuardianChecbox').addEventListener('click', guardianCheckListener);
+            document.getElementById('loginButton').addEventListener('click', loginClickListener);
+            document.getElementById('loginEmail').addEventListener('click', clickListenerEmail);registerButton
+            document.getElementById('registerButton').addEventListener('click', registerClickListener);
+            guardianCheckListener();
+        });
+
+        var guardianCheckListener = () => {
+            const checkbox = document.getElementById('registerGuardianChecbox');
+            const fileUpload = document.getElementById('registerCVFile');
+            if (checkbox.checked) {
+                fileUpload.disabled = false;
+            } else {
+                fileUpload.disabled = true;
+            }
+        };
+
+        var loginClickListener = () => {
+            const mail = document.getElementById('loginEmail');
+            // TODO: redirect
+            if (mail.value.toLowerCase().includes('guardian')) {
+
+            } else if (mail.value.toLowerCase().includes('student')) {
+
+            } else {
+                mail.classList.add('redText');
+            }
+        };
+
+        var clickListenerEmail = (e) => {
+            e.target.classList.remove('redText');
+        };
+
+        var registerClickListener = () => {
+            const guardian = document.getElementById('registerGuardianChecbox');
+            // TODO: Redirect
+            if (guardian.checked) {
+
+            } else {
+
+            }
+        };
+
+    </script>
+    <header>
+        <img src="images/logo.svg" width="100rem" height="100rem" class="logo" alt="Logo" />
+        <nav>
+            <div class="navbar">
+                <div class="container nav-container">
+                    <input class="checkbox" type="checkbox" />
+                    <div class="hamburger-lines">
+                        <span class="line line1"></span>
+                        <span class="line line2"></span>
+                        <span class="line line3"></span>
+                    </div>
+                </div>
+                <div class="menu-items">
+                    <ul class="navbar">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="">About us</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="">Login / Register</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="leftRightFlexBox">
+            <div class="backgroundBoxWithTitle">
+                <h1>Login</h1>
+                <div class="backgroundBox">
+                    <div class="inputRow">
+                        <label for="loginEmail">Email:</label><input id="loginEmail" type="text">
+                    </div>
+                    <div class="inputRow">
+                        <label for="loginPassword">Password:</label><input id="loginPassword" type="password">
+                    </div>
+                    <div class="inputRow">
+                        <button id="loginButton" class="defaultButton paddedButton">Login</button>
+                        <a href="" class="smallText">Forgot password?</a>
+                    </div>
+                </div>
+            </div>
+            <div class="backgroundBoxWithTitle">
+                <h1>Register</h1>
+                <div class="backgroundBox">
+                    <div class="inputRow">
+                        <label for="registerName">* Name:</label><input id="registerName" type="text">
+                    </div>
+                    <div class="inputRow">
+                        <label for="registerEmail">* Email:</label><input id="registerEmail" type="text">
+                    </div>
+                    <div class="inputRow">
+                        <label for="registerPassword">* Password:</label><input id="registerPassword" type="password">
+                    </div>
+                    <div class="inputRow">
+                        <label for="registerPasswordRepeat">* Re-type password:</label><input id="registerPasswordRepeat" type="password">
+                    </div>
+                    <div class="checkBoxInputRow">
+                        <input type="checkbox" id="registerTermsCheckbox">
+                        <label for="registerTermsCheckbox">
+                            I agree to the <a href="">Terms of Use</a> and <a href="">Privacy Policy</a>
+                        </label>
+                    </div>
+                    <div class="checkBoxInputRow">
+                        <input type="checkbox" id="registerGuardianChecbox">
+                        <label for="registerGuardianChecbox">
+                            Sign up as a guardian
+                        </label>
+                    </div>
+                    <div class="fileInputRow">
+                        <input type="file" id="registerCVFile" disabled>
+                        <label for="registerCVFile">
+                            If you apply as a guardian, you have to upload your CV
+                        </label>
+                    </div>
+                    <div class="checkBoxInputRow">
+                        <button id="registerButton" class="defaultButton paddedButton">Register</button>
+                        <a href="" class="smallText">Learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <ul class="footerLinks">
+            <li><a href="">Contact us</a></li>
+            <li><a href="">About us</a></li>
+        </ul>
+        <div class="footerLogos">
+            <a href=""><img class="footerLogoImg" src="images/facebook-logo.svg" alt="Facebook logo" /></a>
+            <a href=""><img class="footerLogoImg" src="images/twitter-logo.svg" alt="Twitter logo" /></a>
+            <a href=""><img class="footerLogoImg" src="images/whatsapp-logo.svg" alt="Whatsapp logo" /></a>
+            <a href=""><img class="footerLogoImg" src="images/instagram-logo.svg" alt="Instagram logo" /></a>
+        </div>
+    </footer>
+</body>
+
+</html>
