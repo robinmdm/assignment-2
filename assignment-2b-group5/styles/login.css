@@ -60,3 +60,23 @@
 body > footer {
     margin-top: 5rem;
 }
+
+@media only screen and (max-width: 480px) {
+    .leftRightFlexBox {
+        flex-direction: column;
+    }
+    .backgroundBox {
+        max-width: 65%;
+    }
+    .backgroundBox > div.inputRow {
+        margin-right: 0px;
+    }
+    .backgroundBox input[type=text],
+    .backgroundBox input[type=password] {
+        width: 50%;
+    }
+    .backgroundBox > div.checkBoxInputRow,
+    .backgroundBox > div.fileInputRow {
+        margin-left: 0%;
+    }
+}
