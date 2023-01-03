@@ -83,6 +83,11 @@ body {
     padding: 0.1em 2em;
 }
 
+a,
+a:visited {
+    color: var(--color-accent);
+}
+
 /*-------------------------------------*/
 /*
     Footer
@@ -94,6 +99,7 @@ footer {
     margin-top: 5px;
     width: 100%;
     background: var(--color-accent-alt);
+    /*border-top: 2px solid black;*/
 }
 
 .footerLinks {

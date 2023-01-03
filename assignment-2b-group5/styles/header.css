@@ -4,6 +4,7 @@ header {
     align-items: center;
     margin-bottom: 25px;
     background: var(--color-accent-alt);
+    /*border-bottom: 2px solid black;*/
 }
 
 .logo {
