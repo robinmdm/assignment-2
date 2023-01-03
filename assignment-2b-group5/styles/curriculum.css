@@ -1,0 +1,12 @@
+.currContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    padding-bottom: 50px;
+}
+
+#curriculumFrame {
+    width: 75%;
+    min-height: 30rem;
+}
