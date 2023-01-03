@@ -1,0 +1,24 @@
+.countryContainer {
+    display: flex;
+    flex-direction: row;
+    column-gap: 70px;
+    row-gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.singleCountry p {
+    text-align: center;
+}
+
+.singleCountry a {
+    text-decoration: none;
+}
+
+.singleCountry a:visited {
+    color: black;
+}
+
+.singleCountry a:hover {
+    color: var(--color-accent);
+}
