@@ -12,6 +12,7 @@
     max-width: 660px;
 } 
 
+/*
 .link {
     text-decoration: none;
     color: var(--color-text);
@@ -20,4 +21,4 @@
 .link:hover {
     text-decoration: none;
     color: var(--color-accent);
-}
+}*/
