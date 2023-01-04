@@ -86,6 +86,8 @@ body {
 a,
 a:visited {
     color: var(--color-accent);
+    cursor: pointer;
+    text-decoration: underline;
 }
 
 /*-------------------------------------*/
