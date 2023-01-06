@@ -1,0 +1,24 @@
+.courses {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: flex-start;
+    margin-top: 5%;
+}
+
+.single-course p {
+    text-align: center;
+}
+
+.single-course a {
+    text-decoration: none;
+}
+
+.single-course a:visited {
+    color: black;
+}
+
+.single-course a:hover {
+    color: var(--color-accent);
+}

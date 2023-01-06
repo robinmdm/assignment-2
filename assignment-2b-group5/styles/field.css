@@ -1,0 +1,30 @@
+.fields {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
+
+.centered {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.single-fields p {
+    text-align: center;
+}
+
+.single-fields a {
+    text-decoration: none;
+}
+
+.single-fields a:visited {
+    color: black;
+}
+
+.single-fields a:hover {
+    color: var(--color-accent);
+}
