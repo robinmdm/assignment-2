@@ -18,11 +18,11 @@ var guardianCheckListener = () => {
 
 var loginClickListener = () => {
     const mail = document.getElementById('loginEmail');
-    // TODO: redirect
+    // This redirects to the same page as there have been changes to the requirements
     if (mail.value.toLowerCase().includes('guardian')) {
-
+        window.location.href = "./continent.html";
     } else if (mail.value.toLowerCase().includes('student')) {
-
+        window.location.href = "./continent.html";
     } else {
         mail.classList.add('redText');
     }
@@ -34,10 +34,10 @@ var clickListenerEmail = (e) => {
 
 var registerClickListener = () => {
     const guardian = document.getElementById('registerGuardianChecbox');
-    // TODO: Redirect
+    // This redirects to the same page as there have been changes to the requirements
     if (guardian.checked) {
-
+        window.location.href = "./continent.html";
     } else {
-
+        window.location.href = "./continent.html";
     }
 };
