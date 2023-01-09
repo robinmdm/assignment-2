@@ -34,10 +34,6 @@
     text-decoration: none;
 }
 
-.followUps a:visited {
-    color: black;
-}
-
 .followUps a:hover {
     color: var(--color-accent);
 }

@@ -60,6 +60,9 @@ body {
 .redText {
     color: red;
 }
+.marginRightAuto {
+    margin-right: auto;
+}
 
 .defaultButton {
     background-color: var(--color-bg-bright);
