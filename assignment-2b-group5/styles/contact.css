@@ -21,16 +21,6 @@ figure {
     flex-direction: row;
 }
 
-/*h2 > a {
-    text-decoration: none;
-    color: var(--color-text);
-}
-
-h2 > a:hover {
-    text-decoration: none;
-    color: var(--color-accent);
-}*/
-
 .containerText > h2 {
     max-width: 1200px;
     
@@ -54,4 +44,14 @@ h2 > a:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+@media only screen and (max-width: 480px) {
+    .containerText {
+        font-size: small;
+    }
+
+    .menu-items {
+        margin-top: 130px;
+    }
 }

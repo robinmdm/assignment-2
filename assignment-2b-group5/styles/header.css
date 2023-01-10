@@ -54,6 +54,12 @@ header {
         margin-bottom: 50px;
     }
 
+    header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
     .navUl {
         width: 100%;
     }
@@ -175,11 +181,24 @@ header {
     }
 
     .logo {
-        position: absolute;
+        /*position: absolute;
         top: -20px;
         right: 5px;
         color: #000;
+        width: 60px;*/
+        color: #000;
+        margin-right: 10px;
+        margin-top: 5px;
         width: 60px;
+        height: 60px;
+    }
+
+    a.marginRightAuto {
+        /*display: none;*/
+    }
+
+    nav {
+        order: -1;
     }
 
     .nav-container input[type="checkbox"]:checked~.menu-items {

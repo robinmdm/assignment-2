@@ -33,6 +33,10 @@ var questionSelections = new Array(2);
                 return;
             }
             var text = (actualPoints / totalPoints) > 0.5 ? "Cyber Security might be the right course for you." : "It seems like Cyber Security might not be a perfect fit."
+            var textColorClass = (actualPoints / totalPoints) > 0.5 ? "greenText" : "redText";
             
             document.getElementById("resultText").textContent = text;
+            document.getElementById("resultText").classList.remove("greenText");
+            document.getElementById("resultText").classList.remove("redText");
+            document.getElementById("resultText").classList.add(textColorClass);
         }

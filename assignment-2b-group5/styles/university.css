@@ -13,4 +13,11 @@
 
 .image {
     padding: 20px;
+    max-width: 90%;
+}
+
+@media screen and (max-width: 480px) {
+    .image > img {
+        max-width: 100%;
+    }
 }

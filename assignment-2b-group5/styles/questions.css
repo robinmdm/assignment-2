@@ -33,3 +33,9 @@
 .questionRating .ratingSelected {
     background-color: var(--color-accent-alt);
 }
+
+@media only screen and (max-width: 480px) {
+    .questionContainer {
+        max-width: 90%;
+    }
+}

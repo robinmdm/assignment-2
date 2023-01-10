@@ -22,3 +22,9 @@
 .single-course a:hover {
     color: var(--color-accent);
 }
+
+@media only screen and (max-width: 480px) {
+    .courses {
+        column-gap: 20px;
+    }
+}

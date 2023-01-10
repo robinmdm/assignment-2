@@ -28,3 +28,9 @@
 .single-fields a:hover {
     color: var(--color-accent);
 }
+
+@media only screen and (max-width: 480px) {
+    .fields {
+        column-gap: 20px;
+    }
+}
