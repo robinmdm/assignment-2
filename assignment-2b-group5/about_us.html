@@ -59,8 +59,15 @@
                 </p>
             </div>
             <div class="image">
-                <img src="images/depositphotos_11388954-stock-photo-math-teacher.jpg" width="600"
-                    alt="A Math Teacher" />
+                <!--<img srcset="images/depositphotos_11388954-stock-photo-math-teacher-test.jpg 480w, images/depositphotos_11388954-stock-photo-math-teacher.jpg 600"
+                sizes="(max-width: 480px) 480px, 600px"
+                src="images/depositphotos_11388954-stock-photo-math-teacher.jpg"
+                alt="A Math Teacher" />-->
+                <picture>
+                    <source srcset="images/depositphotos_11388954-stock-photo-math-teacher-512.jpg" media="(max-width: 600px)"/>
+                    <img src="images/depositphotos_11388954-stock-photo-math-teacher.jpg" alt="A Math Teacher" />
+                </picture>
+                  
             </div>
         </div>
     </main>

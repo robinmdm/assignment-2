@@ -15,8 +15,13 @@
     padding: 20px;
 }
 
-@media only screen and (max-width: 480px) {
-    .image > img {
+.image > picture > img {
+    width: 600px;
+    max-width: 95%;
+}
+
+@media only screen and (max-width: 600px) {
+    .image > picture > img {
         max-width: 100%;
     }
 }
