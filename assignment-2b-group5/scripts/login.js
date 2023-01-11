@@ -20,9 +20,9 @@ var loginClickListener = () => {
     const mail = document.getElementById('loginEmail');
     // This redirects to the same page as there have been changes to the requirements
     if (mail.value.toLowerCase().includes('guardian')) {
-        window.location.href = "./continent.html";
+        window.location.href = "./user/continent.html";
     } else if (mail.value.toLowerCase().includes('student')) {
-        window.location.href = "./continent.html";
+        window.location.href = "./user/continent.html";
     } else {
         mail.classList.add('redText');
     }
