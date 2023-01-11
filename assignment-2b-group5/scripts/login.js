@@ -36,8 +36,8 @@ var registerClickListener = () => {
     const guardian = document.getElementById('registerGuardianChecbox');
     // This redirects to the same page as there have been changes to the requirements
     if (guardian.checked) {
-        window.location.href = "./continent.html";
+        window.location.href = "./user/continent.html";
     } else {
-        window.location.href = "./continent.html";
+        window.location.href = "./user/continent.html";
     }
 };

@@ -41,6 +41,7 @@ div .centerDoors > a {
     text-decoration: none;
 }
 
+div .centerDoors > a,
 div .centerDoors > a:visited {
     text-decoration: none;
     color: black;

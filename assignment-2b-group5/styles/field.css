@@ -21,6 +21,7 @@
     text-decoration: none;
 }
 
+.single-fields a,
 .single-fields a:visited {
     color: black;
 }
