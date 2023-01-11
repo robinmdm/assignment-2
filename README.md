@@ -6,6 +6,14 @@
 - MD Mohsin Nur Robin
 - Christian Roth
 
+Work distribution for us as developers
+
+    Hosting - MD Mohsin Nur Robin
+    HTML Blueprint - MD Mohsin Nur Robin
+    CSS - Christian Roth
+    Testing - Basil Ugbomoiko
+    Fixes and rest - Free for all
+
 # Business description
 
 1. **The official name of the business is **Pathfinder**.**
