@@ -183,3 +183,14 @@ ul.breadcrumb li a:hover {
     color: var(--color-accent);
     text-decoration: none;
 }
+
+/*-------------------------------------*/
+/*
+    Extra
+*/
+/*-------------------------------------*/
+
+#marg {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
